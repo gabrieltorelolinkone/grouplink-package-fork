@@ -13,6 +13,6 @@ let package = Package(
     targets: [
         .binaryTarget(name: "GroupLink",
                       url: "https://grouplinknetwork.com/releases/ios/latest.zip",
-                      checksum: "47d07605889c04bf5a9cf072a5099ed7ae399cd07d9f9cb4c1b491e28ca586b1")
+                      checksum: "4d5b20f79c797b8609c38a611584512ee80aca20e24c38353af73bf57fbb517d")
     ]
 )
