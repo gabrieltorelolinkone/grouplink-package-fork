@@ -8,7 +8,6 @@ let package = Package(
     products: [
         .library(
             name: "GroupLink",
-            type: .dynamic,
             targets: ["GroupLink"]),
     ],
     targets: [
