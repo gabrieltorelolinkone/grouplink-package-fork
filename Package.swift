@@ -12,7 +12,7 @@ let package = Package(
     ],
     targets: [
         .binaryTarget(name: "GroupLink",
-                      url: "https://s3.us-west-004.backblazeb2.com/gl-ios-releases/DynamicReleases/5.5.2.zip",
-                      checksum: "5d289b63c13c85c3ca2d5bbd75db8d606928f14bda4cdeb26760f5d3509ddb34")
+                      url: "https://f004.backblazeb2.com/file/gl-ios-releases/DynamicReleases/6.2.0.zip",
+                      checksum: "770eb2917d4d935c6bb1abab310f4d6a693f90271f34648d9dafa588bf87be1b")
     ]
 )
